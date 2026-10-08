@@ -1,0 +1,4 @@
+[build]
+  base = "wolfe-emery_jesse_vite-vue-assignment"
+  command = "npm run build"
+  publish = "dist"
