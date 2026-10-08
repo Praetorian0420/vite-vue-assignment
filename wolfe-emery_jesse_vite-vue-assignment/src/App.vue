@@ -15,7 +15,7 @@ const ideas = ['Collect a spark', 'Shape a small plan', 'Make it real']
     <section class="hero" aria-labelledby="hero-title">
       <div class="hero-copy">
         <p class="eyebrow"><span></span> YOUR NEXT GOOD THING STARTS HERE</p>
-        <h1 id="hero-title">Make room<br />for <em>good ideas.</em></h1>
+        <h1 id="hero-title">Make room<br />for <em>bold ideas.</em></h1>
         <p class="intro">
           A bright little corner for the projects, plans, and possibilities you can’t stop thinking
           about.
